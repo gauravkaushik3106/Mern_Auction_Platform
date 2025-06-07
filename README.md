@@ -1,1 +1,1 @@
-This is a Mern Project.
+This is a Mern Auction Platform.
