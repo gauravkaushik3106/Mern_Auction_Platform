@@ -7,6 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 🔗 **Live Demo:** [https://suhbidz-auction-platform.netlify.app/](https://suhbidz-auction-platform.netlify.app/)
+
 📂 **Repo:** [https://github.com/gauravkaushik3106/Mern\_Auction\_Platform](https://github.com/gauravkaushik3106/Mern_Auction_Platform)
 
 ---
